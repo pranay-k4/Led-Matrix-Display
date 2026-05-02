@@ -12,4 +12,4 @@
 | 8 | External Push Buttons | Momentary Push Button (12mm / 16mm) | 2 |  |  |  |
 | 9 | Male Header pins (Button Connector Header) | 1x2 Pin Header, 2.54mm | 2 |  |  |  |
 | 10 | Jumper Wires | Female-Female, Male-Female, Male-Male Jumper wires | As much I need |  |  |  |
-
+| Subtotal |
