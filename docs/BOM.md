@@ -13,8 +13,13 @@
 - Distributor : Robu, Amazon
 ## 4) Push Button 19mm
 - Quantity : 2
-- Avg price ~ 1-1.5
+- Avg price ~ 1-1.5$
 - Distributor : Robu, Amazon
+## 5) PCB 
+- Quantity : 1
+- Making Price : 2$
+- Shipping : 9$
+- Distributor : JLCPCB
 
 ### Note
 - This will be updated as there will some other minor component needed.
